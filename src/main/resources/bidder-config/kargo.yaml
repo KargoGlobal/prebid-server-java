@@ -7,6 +7,9 @@ adapters:
     meta-info:
       maintainer-email: kraken@kargo.com
       app-media-types:
+        - banner
+        - video
+        - native
       site-media-types:
         - banner
         - video
